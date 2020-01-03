@@ -22,8 +22,13 @@ url: "https://berlawan.github.io" # the base hostname & protocol for your site, 
 icon: #/assets/images/icon-512.png
 twitter_username: #patdryburgh
 github_username:  berlawan
-site.disqus.shortname: berlawan
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: berlawan
+    
 # Build settings
 markdown: kramdown
 
