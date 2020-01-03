@@ -23,6 +23,7 @@ icon: #/assets/images/icon-512.png
 twitter_username: #patdryburgh
 github_username:  berlawan
 comments: true
+site.disqus.shortname: berlawan
 
 # Build settings
 markdown: kramdown
