@@ -1,0 +1,37 @@
+--- 
+
+layout: post 
+title: 'Percaya pada operator telekomunikasi adalah permasalahan' 
+date: '2020-04-23' 
+author: 'Nadya Larasati'
+categories: teknologi
+
+---
+
+Seorang aktivis yang bergerak dalam isu Papua pernah mengunggah klarifikasi di Instagram-nya ketika sebuah pesan singkat (SMS) berisi informasi palsu dari nomornya dengan tanpa sepengetahuan dia menyebar ke lingkar perkawanannya. Bulan September 2019, SMS berisikan fitnah yang mengatasnamakan BEM UGM beredar di antara para mahasiswa Yogyakarta, terutama yang terlibat dalam aksi #GejayanMemanggil. 
+
+Jika dimaksudkan untuk menimbulkan perpecahan dalam gerakan, keduanya adalah usaha yang gagal. Gagal karena dieksekusi secara buruk, dan gagal karena penyerang terlalu naif dengan melihat gerakan sebagai sekumpulan pecundang yang mudah ditipu dan diam saja ketika diludahi mukanya. Gerakan tak bodoh-bodoh amat untuk mau memakan tahi seperti itu.
+
+Akan tetapi, kegagalan ternyata membuat para musuh rakyat memutuskan untuk melakukan hal yang lebih jorok lagi. Malam 22 April 2020, seorang pegiat advokasi legislasi yang kritis terhadap beberapa kebijakan pemerintah (saat ini di antaranya tentang COVID-19, Kartu Prakerja, dan stafsus milenial) ditangkap karena pesan provokatif menyebar dari WhatsApp-nya. Ia mendapat notifikasi bahwa nomornya tengah digunakan di WhatsApp (WA) gawai lain. Ada kiriman kata sandi sekali-pakai (OTP) dari WA di kotak masuk SMS. Kemungkinan besar, penyerang juga bisa mengakses sandi itu untuk kemudian menguasai WA-nya.
+
+Dari tiga kasus itu, kita bisa memastikan bahwa penyerang punya akses pada layanan pesan singkat target.
+
+Lima menit lalu, SMS mengatasnamakan KOMINFO masuk ke gawai saya. IMEI gawai yang saya pakai telah terdaftar di gawai mereka. Seminggu lalu ada SMS dari HAGO. Seminggu sebelumnya dari Call of Duty. Pengalaman seperti ini tak asing buat kita. Operator telekomunikasi membuka layanan pemasaran via pesan singkat untuk pelaku bisnis, termasuk memungkinkan mereka untuk dapat melakukan pengiriman SMS menggunakan nama merek sebagai pengirim SMS. Seseorang yang bekerja di operator telekomunikasi bisa dengan mudah memasukkan nomor target untuk melihat dan mengunduh riwayat komunikasinya. Operator telekomunikasi bisa saja membuat pencerminan untuk pemerintah dengan berbagai dalih, sehingga pemerintah punya akses yang sama dengan operator telekomunikasi. Perlu juga diingat bahwa pesan singkat disimpan dan dikirim sebagai teks biasa, tak terenkripsi. 
+
+Teknologi Signalling System 7 (SS7) dipakai untuk mengatur pertukaran panggilan telepon dan pesan. SS7 adalah protokol persinyalan yang dikembangkan pada tahun 1975. Tahun pembuatannya cukup untuk membuat kita sangsi dengan konsep keamanan yang dipakai. Teknologi ini masih digunakan oleh operator telekomunikasi karena protokolnya ada di mana-mana dan secara praktis menghubungkan jaringan yang ada di seluruh dunia. Karena menautkan jaringan yang berbeda, bukan hal mustahil bagi operator telekomunikasi untuk mengatur (dan mengawasi) akses pengguna yang berada di luar jaringan mereka.
+
+SS7 memiliki celah keamanan yang dapat dieksploitasi dengan cara menipu jaringan telekomunikasi agar meyakini bahwa penyerang memiliki nomor yang sama dengan gawai korban. Dengan cara itulah penyerang dapat menerima pesan autentikasi dari berbagai penyedia layanan lain: perbankan, WA, Telegram, Line, Facebook, atau bahkan Signal.
+
+Mengharapkan keamanan layanan panggilan atau pesan pada operator telekomunikasi adalah permasalahan. Untuk mengatasi masalah itu, kita perlu menaruh kecurigaan pada operator telekomunikasi. Bahwa operator telekomunikasi sama sekali tak peduli keamanan, dan beranggapan sebaliknya adalah berbahaya.
+
+WA merupakan aplikasi perpesanan lintas platform paling populer yang memiliki layanan enkripsi ujung ke ujung. Jutaan jiwa barangkali merasa aman dengan itu. Tapi itu hanya sebatas klaim. WA tak membuka kode mereka agar bisa diperiksa oleh publik. Jika pun benar, enkripsi itu tak berarti apa pun ketika penyerang bisa mengakses kata sandi sekali-pakai (OTP) yang dikirimkan oleh WA lewat SMS. Sandi sekali pakai sebagai tembok pertama relatif mudah dirobohkan. 
+
+WA telah memperingatkan kita untuk hati-hati dengan cara yang tak berguna. Notifikasi bahwa kode keamanan seseorang berganti akan muncul dalam obrolan ketika orang tersebut berganti gawai. Tapi seberapa sering kita melihat notifikasi penggantian kode keamanan seseorang di dalam grup? Bagaimana kita tahu jika yang ada di balik akun itu adalah kawan kita, dan bukan penyerang? Ketika penyerang berhasil masuk ke dalam grup, ia akan bisa dengan mudah mengakses nomor telepon anggota grup. Seberapa sulit mengetahui identitas pemiliknya jika penyerang juga mempunyai akses terhadap data nomor telepon yang sekarang sudah teregistrasi? Jika tidak ada akses terhadap data tersebut, serumit apa memasukkan nomor itu ke dalam layanan semacam Truecaller atau ke dalam aplikasi pembayaran kartu pascabayar? Waktu untuk melakukan verifikasi telah habis bersamaan dengan munculnya notifikasi.
+
+Beberapa orang kemudian menyarankan untuk mengaktifkan verifikasi dua langkah di WA. Dalam kasus terakhir, korban mengaku telah mengaktifkannya, bahkan memasang pemindaian sidik jari, tapi tetap saja tembus. Ada hipotesis bahwa perangkat perusak dikirim ke gawai korban lewat panggilan suara. Mengerikan, tapi ada kemungkinan bahwa itu yang memang terjadi.
+
+Ada juga yang menyarankan untuk berpindah platform ke Telegram. Mungkin banyak yang tak sadar bahwa Telegram sama tidak amannya. Telegram juga memerlukan nomor ponsel untuk mendaftar, dan—ini yang harus mendapat perhatian—enkripsi tidak terjadi secara serta merta (default). Pertukaran pesan dalam obrolan grup juga tidak terenkripsi. Di Telegram, enkripsi ujung ke ujung hanya terjadi ketika kita memilih untuk menggunakan mode obrolan rahasia (secret chat). Pengalaman protes di Hong Kong juga menemukan kelemahan dari Telegram yang memungkinkan penyerang mendapatkan identitas orang yang ada di grup dengan cara menambahkan banyak nomor ke kontak setelah penyerang berhasil masuk ke dalam grup target.
+
+Pilihan kemudian jatuh pada Signal. Ada dua hal yang menjadi bahan pertimbangan. Pertama, Signal masih mengharuskan adanya nomor telepon sehingga punya risiko yang sama dengan platform lain. Kedua, performa obrolan grup di Signal menyedihkan, meskipun sekarang lebih baik ketimbang beberapa tahun lalu. Tapi ada cara untuk mengatasi kebutuhan nomor telepon, yaitu dengan memakai nomor luar negeri. Untuk mendapatkannya dengan gratis, unduh aplikasi penyedia nomor telepon 2nd Line, Textnow, atau sejenisnya. Daftar dengan email sembarang (palsu pun bisa). Dapatkan nomor secara acak. Gunakan nomor tersebut untuk mendaftar. Tunggu sandi sekali-pakai masuk ke dalam aplikasi 2nd Line. Sebagai tambahan, gunakan opsi untuk menghancurkan pesan otomatis.
+
+Apakah itu saja cukup untuk menjaga keamanan dalam berkomunikasi? Boleh jadi tidak. Ada banyak hal lain yang mesti diperhatikan dan belum dibahas dalam tulisan ini. Dan masih ada banyak cara bagi musuh rakyat untuk berbuat lebih jorok lagi.
