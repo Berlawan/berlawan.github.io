@@ -8,7 +8,7 @@ categories: teknologi
 
 ---
 
-Saya lupa kapan tepatnya, tapi di sekitar bulan Juli atau Agustus 2019, seorang aktivis yang bergerak dalam isu Papua di Surabaya pernah mengunggah klarifikasi di Instagram ketika sebuah pesan singkat (SMS) berisi informasi palsu dari nomornya menyebar ke lingkar perkawanannya. Bulan September 2019, SMS berisikan fitnah yang mengatasnamakan [BEM UGM beredar di antara para mahasiswa Yogyakarta](https://yogyakarta.kompas.com/read/2019/09/30/20563511/usai-aksi-gejayanmemanggil2-beredar-sms-hoaks-atas-nama-bem-km-ugm?page=all), terutama yang terlibat dalam aksi #GejayanMemanggil.
+Saya lupa kapan tepatnya, tapi di sekitar bulan Juli atau Agustus 2019, seorang aktivis yang bergerak dalam isu Papua di Surabaya  mengunggah klarifikasi di Instagram ketika sebuah pesan singkat (SMS) berisi informasi palsu dari nomornya menyebar ke lingkar perkawanannya. Bulan September 2019, SMS berisikan fitnah yang mengatasnamakan [BEM UGM beredar di antara para mahasiswa Yogyakarta](https://yogyakarta.kompas.com/read/2019/09/30/20563511/usai-aksi-gejayanmemanggil2-beredar-sms-hoaks-atas-nama-bem-km-ugm?page=all), terutama yang terlibat dalam aksi #GejayanMemanggil.
 
 Jika dimaksudkan untuk menimbulkan perpecahan dalam gerakan, keduanya adalah usaha yang gagal. Gagal karena dieksekusi secara buruk, dan gagal karena penyerang terlalu naif dengan melihat gerakan sebagai sekumpulan pecundang yang mudah ditipu dan diam saja ketika diludahi mukanya. Gerakan tak bodoh-bodoh amat untuk mau memakan tahi seperti itu.
 
