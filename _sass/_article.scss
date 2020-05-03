@@ -22,8 +22,8 @@
 
 .post p {
   text-align: left;
-  line-height: 200%;
   text-justify: inter-word;
+  margin-bottom:2em
 }
 
 .post p:first-of-type,
@@ -47,7 +47,7 @@
 }
 
 .post-content:first-child {
-  margin-top: 4em;
+  margin-top: 3em;
 }
 
 .post-meta {
